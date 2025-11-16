@@ -14,4 +14,6 @@ This repository contains the tasks and assignments performed during the Machine 
 | K-Nearest Neighbours Implementation        | Lab-4   | Knn.ipynb                 |
 ---
 
+Iris_dataset(Iris.csv) is used for DecisionTree and KNN.
+Either the csv file need to be copied into the respective folder or we can also change the file path to "../Iris.csv" while reading csv
 
