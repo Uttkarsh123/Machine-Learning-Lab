@@ -6,10 +6,12 @@ This repository contains the tasks and assignments performed during the Machine 
 
 ## Task Log
 
-| Date       | Task Description                           | Folder  | File                 |
-|------------|--------------------------------------------|---------|----------------------|
-| 2025-09-05 | Linear Regression Implementation     | Lab-1   | linear_regression.py |
-
+| Task Description                           | Folder  | File                      |
+|--------------------------------------------|---------|---------------------------|
+| Linear Regression Implementation           | Lab-1   | linear_regression.py      |
+| Logistic Regression Implementation         | Lab-2   | logistic_regression.ipynb |
+| Decision Tree Implementation               | Lab-3   | DecisionTree.ipynb        |
+| K-Nearest Neighbours Implementation        | Lab-4   | Knn.ipynb                 |
 ---
 
 
