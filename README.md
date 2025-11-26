@@ -17,6 +17,6 @@ This repository contains the tasks and assignments performed during the Machine 
 | Gradient Descent Optimization              | Lab-7   | Gradient_Descent.ipynb    |
 ---
 
-Iris_dataset(Iris.csv) is used for DecisionTree and KNN.
+Iris_dataset(Iris.csv) is used for DecisionTree, KNN and SVM.
 Either the csv file need to be copied into the respective folder or we can also change the file path to "../Iris.csv" while reading csv
 
